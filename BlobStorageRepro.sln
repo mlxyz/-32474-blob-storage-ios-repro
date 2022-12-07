@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorageRepro", "BlobStorageRepro\BlobStorageRepro.csproj", "{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Release|iPhone.Build.0 = Release|iPhone
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Release|iPhone.Deploy.0 = Release|iPhone
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AB972AF1-BEAF-45E0-B32E-6EF3A5C6F7D4}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
